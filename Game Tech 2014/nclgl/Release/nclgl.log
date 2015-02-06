@@ -1,0 +1,31 @@
+﻿Build started 12/12/2014 01:17:22.
+     1>Project "C:\Users\cmdadmin\Desktop\Game Tech 2014_Test\Game Tech 2014\nclgl\nclgl.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D GLEW_STATIC /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt OGLRenderer.cpp
+         OGLRenderer.cpp
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\Lib.exe /OUT:"C:\Users\cmdadmin\Desktop\Game Tech 2014_Test\Game Tech 2014\Game Technologies\Release\nclgl.lib" /NOLOGO /LTCG Release\Camera.obj
+         Release\CubeRobot.obj
+         Release\Frustum.obj
+         Release\GameTimer.obj
+         Release\Keyboard.obj
+         Release\Matrix4.obj
+         Release\MD5Anim.obj
+         Release\MD5FileData.obj
+         Release\MD5Mesh.obj
+         Release\MD5Node.obj
+         Release\Mesh.obj
+         Release\Mouse.obj
+         Release\OBJMesh.obj
+         Release\OGLRenderer.obj
+         Release\Plane.obj
+         Release\Quaternion.obj
+         Release\SceneNode.obj
+         Release\Shader.obj
+         Release\Window.obj
+         nclgl.vcxproj -> C:\Users\cmdadmin\Desktop\Game Tech 2014_Test\Game Tech 2014\Game Technologies\Release\nclgl.lib
+     1>Done Building Project "C:\Users\cmdadmin\Desktop\Game Tech 2014_Test\Game Tech 2014\nclgl\nclgl.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.56
